@@ -152,22 +152,3 @@ Untuk login aplikasi silakan masukkan surel dan kata sandi berikut
 | Surel      | admin@admin.com |
 |------------|-----------------|
 | Kata Sandi | admin           |
-
-## Language / Bahasa
-Tersedia 2 pilihan bahasa untuk web app ini, bahasa Indonesia dan Inggris.
-Untuk menggantinya, buka file `config/app.php` kemudian ganti nilai pada `locale` menjadi `id` atau `en`.
-
-## Timezone / Zona Waktu
-Untuk mengganti zona waktu silakan buka file `config/app.php`
-dan ganti nilai pada `timezone` sesuai dengan keinginan Anda.
-Silakan merujuk ke [dokumentasi php](https://www.php.net/manual/en/timezones.php) untuk nilai zona waktu yang bisa digunakan.
-
-## Demonstration / Demo
-Link video untuk proyek ini bisa dilihat di [YouTube](https://www.youtube.com/watch?v=dyatVEGavxo).
-
-## Other / Lainnya
-Proyek ini menggunakan admin template [Sneat](https://github.com/themeselection/sneat-html-admin-template-free)
-
-## License / Lisensi
-
-Berlisensi di bawah [MIT license](https://github.com/404NotFoundIndonesia/laravel-surat-menyurat-v1/blob/main/LICENSE).
